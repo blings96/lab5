@@ -9,7 +9,7 @@ html,
 body {
   width: 100vw;
   height: 100vh;
-  background-color: #CCC;
+  background-color: rgb(86, 197, 248);
 }
 
 .main-container {
@@ -27,7 +27,7 @@ body {
 }
 
 .row-two {
-  background-color: #f1f1f1;
+  background-color: #ffffff;
 }
 
 .row-three {}
